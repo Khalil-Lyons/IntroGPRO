@@ -1,3 +1,5 @@
 #pragma once
+#include <iostream>
+using namespace std;
 // declaration/prototype/interface
-int foo(int bar);
+void foo(int bar);

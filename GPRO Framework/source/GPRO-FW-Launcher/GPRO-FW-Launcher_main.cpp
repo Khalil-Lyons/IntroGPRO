@@ -2,13 +2,9 @@
 //
 
 #include "GPRO-FW/fooHeader.h"
-#include <stdio.h>
-#include <stdlib.h>
 
 
 int main()
 {
-	int test = foo(9000);
-	printf("\n%d \n", test);
-	system("pause");
+	foo(7);
 }
