@@ -1,3 +1,5 @@
+#include "GPRO-FW/fooHeader.h"
+
 //definition for our function
 
 // definition/implementation
